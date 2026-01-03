@@ -1,2 +1,2 @@
-# bazaradorm.github.io
+# BazaraDorm.github.io
 Website bazara dorm
